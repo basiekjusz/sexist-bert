@@ -1,3 +1,9 @@
+# The purpose of this script is to translate the BOLD dataset from english to polish.
+# It's done using the GPT-4 API from OpenAI.
+# To run the script you need to set the OPENAI_API_KEY environment variable.
+# The script is run from the root directory of the project and outputs the translated
+# dataset to the directory set by `PL_PATH_PREFIX` variable.
+
 from openai import OpenAI
 import json
 
