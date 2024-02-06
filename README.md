@@ -1,6 +1,6 @@
 # sexist-bert
 
-This repository contains the code for the paper _Gender Bias in Language Models trained on the Polish language_ by [Jan Piotrowski](jf.piotrowsk@student.uw.edu.pl), [Jan Busz](j.busz@student.uw.edu.pl), [Dominik Wiśniewski](d.wisniewsk2@student.uw.edu.pl).
+This repository contains the code for the paper [_Gender Bias in Language Models trained on the Polish language_](./paper/gender_bias_polish_language_models.pdf) by [Jan Piotrowski](jf.piotrowsk@student.uw.edu.pl), [Jan Busz](j.busz@student.uw.edu.pl), [Dominik Wiśniewski](d.wisniewsk2@student.uw.edu.pl).
 
 ## Abstract
 
